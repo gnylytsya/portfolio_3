@@ -1,0 +1,42 @@
+#portfolio {
+    text-align: center;
+    margin-top: 20px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #f33052;
+}
+.timeline-image{
+    padding-bottom: 50px;
+	padding-left: 110px;;
+}
+.timeline-heading-left{
+    text-align: right;
+}
+#mainNav {
+    background-color: transparent;
+}
+.fa {
+    padding: 20px;
+    color: grey;
+    padding: 10px;
+    margin-left: 40px;
+}
+.fa:hover {
+    color: #f33052;
+} 
+#contact{
+    background-color: darkgray;
+}
+.portfolio-caption{
+	text-align: center;
+}
+.portfolio-images{
+	width: 750px;
+	height: 300px;
+	border: 1px outset #f33052;
+}
+#skills,
+#portfolio,
+#about{
+	padding-top: 30px;
+}

@@ -1,0 +1,72 @@
+#background_1{
+	background-image: url(background/1.jpg);
+	background-attachment: fixed;
+	width: 1920px;
+	height: 1080px;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+#background_2{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url(background/2.jpg);
+	background-attachment:fixed;
+	width: 1920px;
+	height: 500px;
+	
+}
+#background_3{
+	background-image: url(background/3.jpg);
+	background-attachment: fixed;
+	width: 1920px;
+	height: 1080px;
+	background-repeat: no-repeat;
+}
+#background_4{
+	background-image: url(background/4.jpg);
+	background-attachment: fixed;
+	width: 1920px;
+	height: 1080px;
+	background-repeat: no-repeat;
+	
+}
+.paragraph_background{
+	text-indent: 0px; /* Отступ первой строки */
+	font-size: 18px;
+	color: white;
+	opacity: 0.8;
+}
+.background_h{
+	padding-top: 350px;
+	color: white!important;
+	opacity: 0.7;
+}
+.life {
+	text-align: left;
+}
+.kyivstar{
+	text-align: right;
+}
+#block_1{
+}
+.media{
+	padding-top: 40px;
+}
+.auto{
+	padding-top: 20px;
+}
+#block_1{
+	background-color:transparent;
+}
+.contat{
+	font-size: 20px;
+}
+footer{
+	background-color: grey;
+	text-align: center;
+	font-family: fantasy;
+	
+}
+.container{
+	text-align: center;
+}

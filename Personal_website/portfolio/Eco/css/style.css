@@ -1,0 +1,114 @@
+.fill {
+    width: 1900px;
+    height: 1080px;
+}
+.img-sollar-power {
+    width: 250px;
+    border-radius: 30px;
+    margin: 0 7px 0px 0px; /* Отступы вокруг картинки */
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #4286d6;
+}
+.page-sun-energy {
+    color: #0a9f0a;
+}
+.text-muted {
+    color: #000000;
+}
+.global {
+    text-align: left;
+    padding: 10px 10px 10px 10px;    
+    text-shadow: 10px 10px 10px 10px;
+}
+.image-sun-energy {
+    width: 550px;
+    margin-top: 50px;
+    shape-inside;
+    float:left;
+margin: 4px 10px 2px 0px;
+padding:6px;
+    flex-wrap: wrap-reverse;
+}    
+.section-heading {
+    text-align: center;
+}    
+#wind {
+    background-image: url(image/Wind-vs-energy1.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    color: aliceblue;
+}
+#wind-energy {
+    margin-top: -90px;
+}    
+.windenergy {
+    border-radius: 60px;
+    box-shadow: 0px 0px 15px;
+}
+.thumbnail {
+    width: 350px;
+}
+#portfolio {
+    width: 100%;
+    text-align: center;
+    content:
+}
+ul {
+    text-align: left;
+}
+.geothermal-image{
+    border: 4px double black;
+    width: 550px;    
+}
+.container {
+    margin-top: px;
+}
+.recycling-text {
+    border: 4px double black;
+}
+.site-footer{
+    position: relative;
+    bottom: -100px;
+    margin-bottom: 0px;
+}
+.img-responsive {
+    border-radius: 30px;
+    box-shadow: 0px 0px 15px;
+}
+.power-plant {
+    width: 410px;
+}
+.button-wrapper {
+    height: 50px;
+    padding: 50px;
+    border: 1px solid grey;
+    box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    position: relative;
+}
+#my-button {
+    position: absolute;
+    transition: all 0.07s linear 0s;
+}
+.img-choice {
+    
+}
+.choice {
+    background-image:url(image/story_image_url3feeb2d6dreamstime_xs_26921250.jpg);
+    width: 300px;
+}
+#saving {
+    margin-top: 50px;   
+}
+#Water {
+    margin-top: 40px;
+}
+.advantages{
+	text-align: left
+}
+img {
+
+}
